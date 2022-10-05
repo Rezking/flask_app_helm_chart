@@ -15,8 +15,8 @@ nameOverride: ""
 fullnameOverride: ""
 
 env:
- stage: "prod"
- name: b3Jlb2x1d2EK
+ stage: "dev"
+ name: Ym9zcyBkYW1vbGEK
  
 serviceAccount:
   # Specifies whether a service account should be created
