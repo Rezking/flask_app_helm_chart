@@ -15,7 +15,7 @@ nameOverride: ""
 fullnameOverride: ""
 
 env:
- stage: "dev"
+ stage: "uat"
  name: Ym9zcyBkYW1vbGEK
  
 serviceAccount:
